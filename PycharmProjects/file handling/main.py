@@ -53,9 +53,17 @@ file.writelines(list)
 
 file.close()
 """
-
+"""
 
 
 with open('data', 'r') as file:
     data=file.read()
     print(data)
+
+"""
+
+i=10
+s='hello'
+with open('text', 'w') as file:
+ file.write(str(i))
+ file.write(s)
