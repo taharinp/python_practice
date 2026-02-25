@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a30c9fed-1232-4d6a-833f-bfbe0e84f7b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../PycharmProjects/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PycharmProjects/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PycharmProjects/pythonPycharmProjects" beforeDir="false" afterPath="$PROJECT_DIR$/../PycharmProjects/pythonPycharmProjects" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonPycharmProjects" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonPycharmProjects" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../section 51 challenges_using_oop.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../section 51 challenges_using_oop.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Taharin/python/oop_concepts",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "configurable.group.Jupyter Settings"
   }
 }]]></component>
   <component name="SharedIndexes">
